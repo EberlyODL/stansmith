@@ -32,6 +32,7 @@
   * [Math 34 Learning Objectives](math-34-learning-objectives.md)
     * Simple Interest & Introduction to Sequences
     * Arithmetic Sequences and Simple Discount
+    * [Amortization and Taxes](amortization-and-taxes.md)
     * [Investments](investments.md)
     * [Retirement Planning](retirement-planning.md)
     * [Inflation, Depreciation, and Economic Impact](inflation-depreciation-and-economic-impact.md)
@@ -39,6 +40,5 @@
     * [Markup, Markdown, Profit Margin, and Cost-Revenue Analysis](markup-markdown-profit-margin-and-cost-revenue-analysis.md)
 * [End of Book](README.md)
 * Compound Interest and Geometric Sequences
-* Annuities
-* [Amortization and Taxes](amortization-and-taxes.md)
+* [Annuities](annuities.md)
 
