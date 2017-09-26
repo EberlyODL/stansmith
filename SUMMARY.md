@@ -31,7 +31,8 @@
   * [Math 34 Course Objectives](math-34-course-objectives.md)
   * [Math 34 Learning Objectives](math-34-learning-objectives.md)
     * Simple Interest & Introduction to Sequences
-    * Arithmetic Sequences and Simple Discount
+    * [Arithmetic Sequences and Simple Discount](arithmetic-sequences-and-simple-discount.md)
+    * [Compound Interest and Geometric Sequences](compound-interest-and-geometric-sequences.md)
     * [Annuities](annuities.md)
     * [Amortization and Taxes](amortization-and-taxes.md)
     * [Investments](investments.md)
@@ -40,5 +41,4 @@
     * [Credit Cards, Mortgages, and Leasing](credit-cards-mortgages-and-leasing.md)
     * [Markup, Markdown, Profit Margin, and Cost-Revenue Analysis](markup-markdown-profit-margin-and-cost-revenue-analysis.md)
 * [End of Book](README.md)
-* [Compound Interest and Geometric Sequences](compound-interest-and-geometric-sequences.md)
 
