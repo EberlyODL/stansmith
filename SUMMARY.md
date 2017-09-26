@@ -32,6 +32,7 @@
   * [Math 34 Learning Objectives](math-34-learning-objectives.md)
     * Simple Interest & Introduction to Sequences
     * Arithmetic Sequences and Simple Discount
+    * [Inflation, Depreciation, and Economic Impact](inflation-depreciation-and-economic-impact.md)
     * [Credit Cards, Mortgages, and Leasing](credit-cards-mortgages-and-leasing.md)
     * [Markup, Markdown, Profit Margin, and Cost-Revenue Analysis](markup-markdown-profit-margin-and-cost-revenue-analysis.md)
 * [End of Book](README.md)
@@ -39,6 +40,5 @@
 * Annuities
 * Amortization and Taxes
 * Investments
-* Retirement Planning
-* [Inflation, Depreciation, and Economic Impact](inflation-depreciation-and-economic-impact.md)
+* [Retirement Planning](retirement-planning.md)
 
