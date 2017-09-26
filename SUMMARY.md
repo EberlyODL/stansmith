@@ -27,5 +27,18 @@
     * [Momentum](momentum.md)
     * [Recoil](recoil.md)
     * [Week 2 Summary](week_2_summary.md)
+  * [Math 34](math-34.md)
+  * [Math 34 Course Objectives](math-34-course-objectives.md)
+  * [Math 34 Learning Objectives](math-34-learning-objectives.md)
+    * Simple Interest & Introduction to Sequences
+    * Arithmetic Sequences and Simple Discount
 * [End of Book](README.md)
+* Compound Interest and Geometric Sequences
+* Annuities
+* Amortization and Taxes
+* Investments
+* Retirement Planning
+* Inflation, Depreciation, and Economic Impact
+* Credit Cards, Mortgages, and Leasing
+* [Markup, Markdown, Profit Margin, and Cost-Revenue Analysis](markup-markdown-profit-margin-and-cost-revenue-analysis.md)
 
