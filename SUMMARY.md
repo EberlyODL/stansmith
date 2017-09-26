@@ -41,4 +41,5 @@
     * [Credit Cards, Mortgages, and Leasing](credit-cards-mortgages-and-leasing.md)
     * [Markup, Markdown, Profit Margin, and Cost-Revenue Analysis](markup-markdown-profit-margin-and-cost-revenue-analysis.md)
 * [End of Book](README.md)
+* [Mathjax test](mat.md)
 
