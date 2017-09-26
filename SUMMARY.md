@@ -32,6 +32,7 @@
   * [Math 34 Learning Objectives](math-34-learning-objectives.md)
     * Simple Interest & Introduction to Sequences
     * Arithmetic Sequences and Simple Discount
+    * [Markup, Markdown, Profit Margin, and Cost-Revenue Analysis](markup-markdown-profit-margin-and-cost-revenue-analysis.md)
 * [End of Book](README.md)
 * Compound Interest and Geometric Sequences
 * Annuities
@@ -39,6 +40,5 @@
 * Investments
 * Retirement Planning
 * Inflation, Depreciation, and Economic Impact
-* Credit Cards, Mortgages, and Leasing
-* [Markup, Markdown, Profit Margin, and Cost-Revenue Analysis](markup-markdown-profit-margin-and-cost-revenue-analysis.md)
+* [Credit Cards, Mortgages, and Leasing](credit-cards-mortgages-and-leasing.md)
 
