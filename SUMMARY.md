@@ -30,7 +30,7 @@
   * [Math 34](math-34.md)
   * [Math 34 Course Objectives](math-34-course-objectives.md)
   * [Math 34 Learning Objectives](math-34-learning-objectives.md)
-    * Simple Interest & Introduction to Sequences
+    * [Simple Interest & Introduction to Sequences](simple-interest-and-introduction-to-sequences.md)
     * [Arithmetic Sequences and Simple Discount](arithmetic-sequences-and-simple-discount.md)
     * [Compound Interest and Geometric Sequences](compound-interest-and-geometric-sequences.md)
     * [Annuities](annuities.md)
